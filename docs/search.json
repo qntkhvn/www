@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/eda/eda.html",
+    "href": "posts/eda/eda.html",
+    "title": "EDA project",
+    "section": "",
+    "text": "Insert description down here\nIt’s just all markdown syntax\nbold\nitalic\nbold and italic\n\nhist(rnorm(100))"
+  },
+  {
+    "objectID": "posts/capstone/capstone.html",
+    "href": "posts/capstone/capstone.html",
+    "title": "Capstone",
+    "section": "",
+    "text": "Insert description down here"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n  \n\n\n\n\nCapstone\n\n\n\n\n\nCapstone project on modeling drive-through customer with a Poisson process for SURE 2024 at CMU\n\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n  \n\n\n\n\nEDA project\n\n\n\n\n\nMy EDA project stuff that I did\n\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Steve Stevenson",
+    "section": "",
+    "text": "Welcome to my website! I am a 6th year undergraduate at Cranberry Lemon University, majoring in Fast Food Mgmt. I’m interested in drive-thru analytics, and food quality."
+  }
+]

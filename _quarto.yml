@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Steve Stevenson"
+  navbar:
+    background: "#5a0722"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/
+      - icon: github
+        href: https://github.com/
+      - icon: file-pdf
+        href: assets/resume.pdf
+      
+format:
+  html:
+    theme: spacelab
+      # light: flatly
+      # dark: darkly
+        # - custom.scss
+    css: styles.css
+    toc: true
+
+
+

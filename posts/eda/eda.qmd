@@ -1,0 +1,32 @@
+---
+title: "EDA project"
+description: "My EDA project stuff that I did"
+date: June 2024
+resources: "."
+about:
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/qntkhvn/vizbuzz
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1wVnWnYcqKo_OzFn-13H1LI6vEzSqcAtW_8EGqvVBjYA/edit?usp=sharing
+---
+
+Insert description down here
+
+It's just all markdown syntax
+
+
+**bold**
+
+*italic*
+
+***bold and italic***
+
+```{r}
+hist(rnorm(100))
+```
+

@@ -1,0 +1,22 @@
+---
+title: "Steve Stevenson"
+about:
+  template: jolla
+  image: assets/headshot.png
+  image-shape: round
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:hello@abc.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
+---
+
+Welcome to my website! I am a 6th year undergraduate at Cranberry Lemon University, majoring in Fast Food Mgmt. I'm interested in drive-thru analytics, and food quality.
+
+

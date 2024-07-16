@@ -1,0 +1,26 @@
+---
+title: "Capstone"
+description: "Capstone project on modeling drive-through customer with a Poisson process for SURE 2024 at CMU"
+date: July 2024
+resources: "."
+about:
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/qntkhvn/vizbuzz
+    - icon: laptop
+      text: Slides
+      href: posts/capstone/capstone-presentation.pdf
+    - icon: file
+      text: Poster
+      href: bit.ly/mnbvpoiu
+    - icon: pencil
+      text: Report
+      href: bit.ly/mnbvpoiu
+---
+
+Insert description down here
+
+
